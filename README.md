@@ -39,14 +39,28 @@ Data Analysis: Exploring the seasonality of the strikes, the economic cost/effec
 
  ![Alt text](<Effect Cost per State.png>)
 
+- Overall, birds were the most commonly-struck species and their strike accounted for most of the damages to aircraft, for non-bird species, the most commonly struck category was deer and elks.
+
+![Alt text](<Damage by Animal Category.png>)
+
+![Alt text](<Effect Rank of Cost per Strike by Animal Order.png>)
+
 - Morning doves are the most common wildlife species struck by aircraft in US, however they account for a low percent of the damages, however Canada geese which account for about 5% of the strikes are responsible for most of the strikes causing significant damages.
 
-![Alt text](<Strikes per species_Cost in dollars.png>)![Alt text](<Strikes per species_out of service cost.png>)![Alt text](<Strikes per species_Top 20 No of Strikes.png>)
+![Alt text](<Word Cloud.png>)
 
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+![Alt text](<Strikes per species_Top 20 No of Strikes.png>)![Alt text](<Strikes per species_Cost in dollars.png>)![Alt text](<Strikes per species_out of service cost.png>)
+
+- Seasonality can be observed in the pattern of bird strikes. More than half of the strikes occur from July to October each year which is when young birds have fledged from nests and when fall migration occurs.
+
+![Alt text](<Seasonality of strikes.png>)
+
+![Alt text](<Species Strike & Cost Impact Over Time.png>)
 
 ## Challenges 
-(discuss challenges you faced in the project)
+My main challenge during this project was time constraint and occasional crashes of Tableau but overall, it was an interesting subject matter.
 
 ## Future Goals
-(what would you do if you had more time?)
+I would make my dashboards more intuitive and interactive for ease of use if I had more time and would love to do a comparative analysis after wildlife management measures are implemented.
+
+![Alt text](FAA_last.jpg)
